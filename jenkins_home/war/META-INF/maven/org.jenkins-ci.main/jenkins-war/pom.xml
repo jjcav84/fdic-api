@@ -133,7 +133,7 @@ THE SOFTWARE.
     <dependency>
       <groupId>org.jenkins-ci.main</groupId>
       <artifactId>remoting</artifactId>
-      <version>3.25</version>
+      <version>3.40.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
